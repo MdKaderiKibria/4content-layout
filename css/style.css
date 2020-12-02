@@ -1,0 +1,41 @@
+/* global css */
+body{
+    margin: 0px;
+}
+/* header wrap start */
+.header-wrap{
+    min-height: 50px;
+    background-color: rgb(109, 208, 233);
+}
+/* header wrap end */
+/* content start */
+section{
+    overflow: hidden;
+}
+.content{
+    width: 25%;
+    float: left;
+    min-height: 500px;
+}
+
+.blue{
+    background-color: rgb(72, 72, 184);
+}
+.red{
+    background-color: rgb(218, 95, 95);
+}
+.green{
+    background-color: chartreuse;
+}
+.pink{
+    background-color: pink;
+}
+/* content end */
+/* footer wrap start */
+.footer-wrap{
+    min-height: 50px;
+    background-color: black;
+}
+
+/* footer wrap end */
+
